@@ -11,7 +11,8 @@ About Me HTML webpage
 First Project Porfolio. Language used:HTML, style CSS
 
 ## link to live site on GitHub Pages
-https://github.com/KemumaJ/KemumaJ.github.io.git
+https://github.com/KemumaJ/JK-portfolio
 
 ## copyright and license information
 (c) 2022 Josephine Kemuma
+# KemumaJ.github.io
