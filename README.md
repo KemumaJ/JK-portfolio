@@ -14,8 +14,4 @@ First Project Porfolio. Language used:HTML, style CSS
 https://github.com/KemumaJ/KemumaJ.github.io.git
 
 ## copyright and license information
-(c) 2022 Josephine Kemuma#JK-portfolio
-
-
-
-# KemumaJ.github.io
+(c) 2022 Josephine Kemuma
