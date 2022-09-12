@@ -2,10 +2,13 @@ h1{
     color: blue;
 }
 body{
-    background-color: beige;
+    background-color: cornsilk;
+    
 }
 img{
     padding: 30px;
     margin: 10px;
-    float: left;
+    float: inline-start;
+    height: 600px;
+    width: 50%;
 }

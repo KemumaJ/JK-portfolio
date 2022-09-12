@@ -3,10 +3,10 @@ Moringa-Projects
 ## author name
 Josephine Kemuma
 ## description of project
-How to build a website
+HTML webpage about me
 ## project setup instructions
-First Project Porfolio. Language used:HTML
+First Project Porfolio. Language used:HTML, style CSS
 ## link to live site on GitHub Pages
-N/A
+https://github.com/KemumaJ/JK-portfolio
 ## copyright and license information
 (c) 2022 Josephine Kemuma
