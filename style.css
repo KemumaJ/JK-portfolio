@@ -1,0 +1,36 @@
+h1{
+    color: rgb(35, 178, 22);
+}
+h2{
+    color: blueviolet;
+}
+h4{
+    color: darkgreen;
+}
+p{
+    color: crimson;
+}
+body{
+    background-color: cornsilk;
+    width: auto;
+}
+h3{
+    color: darkorange;
+}
+ol{
+    color: rgb(140, 10, 103);
+    font: bold;
+    font-weight: bolder;
+}
+ul{
+    color: #1f0fd7;
+    font: italic;
+    font-weight: bolder;
+}
+img{
+    padding: 30px;
+    margin: 10px;
+    float: inline-start;
+    height: 600px;
+    width: 50%;
+}
