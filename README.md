@@ -5,13 +5,13 @@ Moringa-Projects
 Josephine Kemuma
 
 ## description of project
-About Me HTML webpage 
+About Me: HTML webpage 
 
 ## project setup instructions
 First Project Porfolio. Language used:HTML, style CSS
 
 ## link to live site on GitHub Pages
-https://github.com/KemumaJ/KemumaJ.github.io.git
+https://github.com/KemumaJ/JK-portfolio
 
 ## copyright and license information
 (c) 2022 Josephine Kemuma
