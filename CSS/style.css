@@ -3,6 +3,8 @@ h1{
 }
 h2{
     color: blueviolet;
+    font-weight: bolder;
+    position: relative;
 }
 h4{
     color: darkgreen
