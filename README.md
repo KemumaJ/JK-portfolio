@@ -14,7 +14,7 @@ open the repository in vs code
 serve with live server
 
 ## link to live site on GitHub Pages
-https://github.com/KemumaJ/JK-portfolio
+ https://kemumaj.github.io/JK-portfolio/
 
 ## copyright and license information
 (c) 2022 Josephine Kemuma
